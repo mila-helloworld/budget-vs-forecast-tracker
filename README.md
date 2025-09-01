@@ -1,7 +1,8 @@
-budget-vs-forecast-tracker/
-│── data/                # CSV or Excel files (mock budget & forecast data)
-│   └── budget_forecast.csv
-│── notebooks/           # Jupyter notebooks for analysis
-│   └── budget_forecast.ipynb
-│── requirements.txt     # List of dependencies (pandas, matplotlib, etc.)
-│── README.md            # Documentation for your project
+# Budget vs. Forecast Tracker
+
+This project tracks and compares **budget vs. forecast data**.  
+It uses Python for data analysis and Jupyter Notebooks for visualization.
+
+---
+
+## 📂 Project Structure
